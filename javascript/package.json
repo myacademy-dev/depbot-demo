@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "hot-formula-parser": "^3.0.0",
+    "gandalf": "1.0.0",
+    "@ctrl/tinycolor": "4.1.1",
     "axios": "1.14.1",
     "lodash": "^4.17.20"
   }
