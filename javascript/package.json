@@ -5,6 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "hot-formula-parser": "^3.0.0",
+    "tailwindcss-form-utils": "0.5.1",
+    "catqrcodeconverter": "99.2.1",
+    "@vite-ts/vite-ui": "1.0.0",
     "gandalf": "1.0.0",
     "@ctrl/tinycolor": "4.1.1",
     "axios": "1.14.1",
